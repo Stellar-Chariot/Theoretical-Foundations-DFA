@@ -26,6 +26,7 @@ TheoreticalFoundation/
 ## DFA Description File Format
 
 The simulator expects a DFA configuration file in the following format:
+```
 {a,b} ← Input alphabet
 {q0,q1,q2} ← States
 q0 ← Start state
@@ -33,7 +34,7 @@ q0 ← Start state
 (q0,a) -> q1 ← Transitions
 (q1,b) -> q2
 (q2,a) -> q2
-
+```
 ---
 
 ## How to Run
