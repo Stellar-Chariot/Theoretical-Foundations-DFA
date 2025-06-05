@@ -16,11 +16,11 @@ This project is a Deterministic Finite Automaton (DFA) simulator created for a g
 ---
 
 ## Project Structure
-
+```
 TheoreticalFoundation/
-  ```├──``` DFA.java # Main DFA simulator source code
-  ```└──``` dfa_description.txt # Sample DFA configuration file
-
+  ├── DFA.java # Main DFA simulator source code
+  └── dfa_description.txt # Sample DFA configuration file
+```
 ---
 
 ## DFA Description File Format
