@@ -1,5 +1,5 @@
 # Theoretical-Foundations-DFA
-Class Group Project
+Class Group Project - Fall 2024
 
 # Collaborators
 
